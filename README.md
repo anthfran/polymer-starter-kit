@@ -3,6 +3,7 @@
 [Check out a demo](https://polymer-starter-kit-top-bar.firebaseapp.com)
 
 Usage:
+
     git clone
     bower install
     polymer serve
