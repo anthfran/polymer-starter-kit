@@ -4,7 +4,7 @@
 
 Usage:
 
-    git clone
+    git clone git@github.com:anthfran/polymer-starter-kit_full-top-bar.git
     bower install
     polymer serve
 
