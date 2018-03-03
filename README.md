@@ -1,4 +1,13 @@
-# Polymer App Toolbox - Starter Kit
+# Poylmer Starter Kit with Full Widht Top Bar
+
+[Check out a demo](https://polymer-starter-kit-top-bar.firebaseapp.com)
+
+Usage:
+    git clone
+    bower install
+    polymer serve
+
+## Polymer App Toolbox - Starter Kit
 
 [![Build Status](https://travis-ci.org/Polymer/polymer-starter-kit.svg?branch=master)](https://travis-ci.org/Polymer/polymer-starter-kit)
 
