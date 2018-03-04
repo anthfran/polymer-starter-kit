@@ -1,4 +1,4 @@
-# Poylmer Starter Kit with Full Widht Top Bar
+# Poylmer Starter Kit with Full Width Top Bar
 
 [Check out a demo](https://polymer-starter-kit-top-bar.firebaseapp.com)
 
