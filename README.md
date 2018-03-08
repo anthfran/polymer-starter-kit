@@ -1,5 +1,7 @@
 # Poylmer Starter Kit with Full Width Top Bar
 
+I do not like the app layout of the polymer starter kit, so I modified it to have a full width top bar for my future projects. Sharing it with whoever feels the same.
+
 [Check out a demo](https://polymer-starter-kit-top-bar.firebaseapp.com)
 
 Usage:
